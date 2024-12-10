@@ -1,0 +1,17 @@
+App.css
+
+/* General Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f7fafc; /* Chakra UI's gray.50 */
+  color: #2d3748; /* Chakra UI's gray.800 */
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+  font-size: 2rem;
+  color: #2c7a7b; /* teal.600 */
+  font-weight: bold;
+}
